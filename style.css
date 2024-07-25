@@ -1,0 +1,317 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.mango1 a {
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+
+}
+
+.mango3 a {
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+
+}
+
+.main {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.mangofour {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 35px;
+    height: 509px;
+
+}
+
+.button {
+    padding: 12px 25px 12px 25px;
+    background-color: transparent;
+    color: white;
+    border: white 2px solid;
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+.top1 {
+    background-image: url(3.jpg);
+    width: 100%;
+
+}
+
+.vasu {
+    color: #fd920d;
+
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.muku1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+    line-height: 50px;
+    text-align: center;
+}
+.muku1 h1{
+    font-size: 50px;
+    font-style: italic;
+}
+
+.a1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+}
+/* .t1{
+    text-align: center;
+} */
+/* .t2{
+   
+    width: 100%;
+}
+.t1{
+   
+    width: 100%;
+} */
+.muku1 p {
+    width: 700px;
+}
+
+.header1 {
+    margin-top: 30px;
+    font-size: 20px;
+
+}
+
+.hearder2 {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.header {
+    font-size: 30px;
+}
+
+.f1 { 
+    margin-top: 40px;
+
+
+  
+}
+
+.f4 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+.f5 {
+   font-size: 30px;
+   margin-left: 120px ;
+   display: flex;
+   flex-direction: row;
+}
+.f2{
+    margin-left: 100px;
+    align-items: center;
+font-size: 30px;
+}
+.f2 h1{
+    font-style: italic;
+    color: #fd920d;
+}
+.f3{
+    margin-left: 100px ;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.ab1{
+
+    padding: 10px;
+    
+
+}
+.ab2 p{
+   padding: 10px;
+    margin-left: 100px;
+
+}
+.ab2 p{
+    color: #fd920d;
+}
+.ab4 p{
+    color: #fd920d;
+}
+.ab3{
+    padding: 10px;
+    margin-left: 88px;
+
+
+}
+.ab4{
+    padding: 10px;
+    margin-left: 90px;
+}
+.f6{ 
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   margin-top: 20px;
+
+
+}
+.ac1{
+    margin-left: 150px;
+    margin-top: 20px;
+
+}
+.ac2{
+
+    margin-top: 80px;
+}
+.ac1 h1{
+    font-style: italic;
+}
+.f7{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 40px;
+}
+.f7{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+
+}
+.f8{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   margin-top: 30px;
+
+}
+.ad1{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.ad1 h1{
+    font-style: italic;
+}
+.ad2{
+    margin-top: 80px;
+}
+.f9{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.f10{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.f11{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   margin-top: 20px;
+
+}
+.m1 h1{
+    font-style: italic;
+
+}
+.m1{
+    display: flex;   
+    /* flex-direction: column; */
+    justify-content: space-around;
+    margin-top: 50px;
+
+    
+}
+.mn1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: black; */
+    padding: 20px;
+    background-color: lightblue;
+
+}
+.hb1{
+    width: 500px;
+    padding: 10px;
+    color: black;
+}
+.bh1{
+    display: flex;
+    color: white;
+    justify-content: left;
+    align-self: flex-start;
+    font-size: larger;
+}
+.mn1 h1{
+    font-size: 50px;
+    color: white;
+    
+}
+.yt1{
+    font-size: large;
+    justify-content: space-around;
+    padding: 10px 10px 10px 10px;
+    background-color:white;
+    color: black;
+    border: 1px solid white;
+    margin-top: 20px;
+}
+.yt1:hover{
+    background-color: #1A4531;
+    color: white;
+    border: 1px solid white;
+    
+
+}
+.mn1 p{
+    color: white;
+}
+.mn1{
+    color: black;
+}
+@media screen  and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+
+    }
+ 
+
+  }
